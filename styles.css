@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+label {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+input {
+    width: 200px;
+    font-size: 16px;
+}
+
+button {
+    font-size: 16px;
+    padding: 5px 10px;
+    margin-left: 10px;
+}
+
+#result {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    display: none;
+}
+
+.hidden {
+    display: none;
+}
